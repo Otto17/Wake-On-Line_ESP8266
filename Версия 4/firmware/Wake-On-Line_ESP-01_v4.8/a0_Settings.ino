@@ -35,7 +35,7 @@
 #define ENABLE_REMOTEXY 1                                        //  1 - включить, 0 - отключить управление через RemoteXY
 #define REMOTEXY_CLOUD_SERVER "cloud.remotexy.com"               // Адрес облака
 #define REMOTEXY_CLOUD_PORT 6376                                 // Порт облака
-#define REMOTEXY_CLOUD_TOKEN "d12470b612e4b1a80a69dd9696d00d53"  // Токен
+#define REMOTEXY_CLOUD_TOKEN "d12470b612e4***************d714a"  // Токен
 
 
 //EEPROM
