@@ -4,7 +4,7 @@
 #include <LittleFS.h>          // Библиотека для работы с файловой системой ESP (подключать ДО библиотеки #include GyverPortal.h) [в ядре ESP8266]
 #include <EEPROM.h>            // Библиотека для работы с энергонезависимой памятью EEPROM [в ядре ESP8266]
 #include <MOD_SimplePortal.h>  // ФОРК библиотеки "SimplePortal". Простой WiFi менеджер с возможностью задания Логина/Пароля для WEB интерфейса [используется ver. 0.1]
-#include <GyverPortal.h>       // Простой конструктор веб интерфейсов для ESP8266 и ESP32 "https://github.com/GyverLibs/GyverPortal" [используется ver. v3.6.4]
+#include <GyverPortal.h>       // Простой конструктор веб интерфейсов для ESP8266 и ESP32 "https://github.com/GyverLibs/GyverPortal" [используется ver. v3.6.6]
 #include <microDS18B20.h>      // Лёгкая библиотека для работы сдатчиком температуры DS18B20 "https://github.com/GyverLibs/microDS18B20" [используется ver. 3.10]
 #include "EncButton.h"         // Библиотека для работы с кнопками "https://github.com/GyverLibs/EncButton" [используется ver. 2.0]
 #include <TimerMs.h>           // Многофункциональный программный таймер на системном таймере millis() "https://github.com/GyverLibs/TimerMs" [используется ver. 1.2]
