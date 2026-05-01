@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wake-On-Line</string>
+    <string name="setup_title">Wake-On-Line</string>
+    <string name="setup_subtitle">Первоначальная настройка</string>
+    <string name="setup_label_url">WEB адрес ESP8266</string>
+    <string name="setup_hint_url">http://192.168.1.100:81</string>
+    <string name="setup_label_login">Логин</string>
+    <string name="setup_hint_login">admin</string>
+    <string name="setup_label_password">Пароль</string>
+    <string name="setup_hint_password">••••••••</string>
+    <string name="setup_btn_save">Сохранить и подключиться</string>
+    <string name="setup_tip">После успешного подключения изменение текущих данных будет невозможно! Для установки новых данных в настройках приложения выберите «Удалить данные», после зайдите в приложение и введите новые данные для подключения.</string>
+</resources>
